@@ -20,8 +20,8 @@
 
 <script>
 import VueSlickCarousel from "vue-slick-carousel";
-import "vue-slick-carousel/dist/vue-slick-carousel.css";
-import 'vue-slick-carousel/dist/vue-slick-carousel-theme.css'
+import '../css/vue-slick-carousel-theme.css';
+import '../css/vue-slick-carousel.css';
 
 export default {
   name: "Slider",
@@ -51,7 +51,7 @@ export default {
   .test img {
     width: 100%;
   }
-  .slick-slide {
+  .slick-list {
     height: 60vh !important;
   }
 

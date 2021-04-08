@@ -4392,7 +4392,7 @@ gauge@~2.7.3:
     strip-ansi "^3.0.1"
     wide-align "^1.1.0"
 
-generate-robotstxt@^8.0.1:
+generate-robotstxt@^8.0.0, generate-robotstxt@^8.0.1:
   version "8.0.3"
   resolved "https://registry.yarnpkg.com/generate-robotstxt/-/generate-robotstxt-8.0.3.tgz#83384090406e760e9d02247412b2b704562c9b58"
   integrity sha512-iD//oAVKcHOCz9M0IiT3pyUiF2uN1qvL3qaTA8RGLz7NU7l0XVwyzd3rN+tzhB657DNUgrygXt9w8+0zkTMFrg==
@@ -4709,6 +4709,13 @@ gridsome-plugin-pwa@^0.0.18:
     register-service-worker "^1.6.2"
     rename "^1.0.4"
     workbox-build "^5.1.2"
+
+gridsome-plugin-robots-txt@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/gridsome-plugin-robots-txt/-/gridsome-plugin-robots-txt-1.0.2.tgz#0ea1e0748166e22e1aaae54f240d00f61c776ab6"
+  integrity sha512-tJw0kylp4UuUKAajjSnJeUIVUKOn3f7zUC035nNkNpI98rV6a+iQs92qKJ9/honq2IzCjYIWPhxsAMrhzln+WA==
+  dependencies:
+    generate-robotstxt "^8.0.0"
 
 gridsome-plugin-robots@^0.2.1:
   version "0.2.1"

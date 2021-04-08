@@ -6,9 +6,7 @@
         aria-label="main navigation"
       >
         <div class="mx-auto">
-          <a href="/">
-            <g-image src="../../static/VinuShot_logo.png" width="100x"></g-image>
-          </a>
+            <img src="../../static/VinuShot_logo.png" width="100x" />
         </div>
 
         <div class="block lg:hidden">

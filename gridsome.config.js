@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'Gridsome Shopify Starter',
-  siteUrl: 'vinushot.myshopify.com',
+  siteUrl: 'https://vinushot.myshopify.com',
   siteDescription: 'PWA Headless ecommerce Gridsome Shopify starter',
   titleTemplate: '%s - Gridsome + Shopify',
   icon: {

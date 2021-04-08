@@ -17,6 +17,7 @@
     "gridsome-plugin-flexsearch": "^1.0.1",
     "gridsome-plugin-pwa": "^0.0.18",
     "gridsome-plugin-robots": "^0.2.1",
+    "gridsome-plugin-robots-txt": "^1.0.2",
     "gridsome-source-shopify": "^0.2.6",
     "isomorphic-fetch": "^2.2.1",
     "lodash": "^4.17.19",
